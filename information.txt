@@ -1,0 +1,14 @@
+donald trump	@realDonaldTrump	male	74
+ricky gervais	@rickygervais	male	59
+barack obama	@barackobama	male	59
+jeff bezos	@jeffbezos	male	56
+bill gates	@billgates	male	65
+melinda gates	@melindagates	female	55
+beyoncé	@beyonce	female	39
+shakira	@shakira	female	43
+jack dorsey	@jack	male	44
+elon musk	@elonmusk	male	49
+charlize theron	@charlizeafrica	female	45
+jennifer lopez	@jlo	female	51
+logan paul	@loganpaul	male	25
+neil degrasse tyson	@neiltyson	male	62
